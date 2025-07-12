@@ -291,7 +291,7 @@ display: none;
 }
 .conent-home-page .left-section{
 order: 2;
-margin-left: 10em;
+margin-left: 7em;
 }
 .conent-home-page .left-section h2{
     font-size: 21px;
@@ -321,7 +321,7 @@ margin-right: 1em;
   width: 100%;
 }
 .content-about-page-left p {
-    width: 30em;
+    width: 22em;
 }
 .techniques{
     font-size: 26px;
@@ -388,5 +388,15 @@ margin-left: 2em;
 }
 .servises-page .buttom-section .ditals-box{
     width: 45%;
+    height: 60%;
 }
+.servises-page .buttom-section .ditals-box h2{
+    font-size: 21px;
+    text-align: center;
 }
+.servises-page .buttom-section .ditals-box p{
+    display: none;
+}
+.projects-page{
+    height: 300vh;
+}}
